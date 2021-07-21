@@ -27,9 +27,14 @@ The following shows a partial example of the data stored in **data.csv** that is
 
 The following shows a couple of example of images from the dataset:
 
-<p align="center">
-  <img src="./normal/pic.6.443.0.png"><img src="./defect/pic.6.594.0.png">
-</p>
+ <div class="row">
+  <div class="column">
+    <img src="./normal/pic.6.443.0.png">
+  </div>
+  <div class="column">
+    <img src="./defect/pic.6.594.0.png">
+  </div>
+</div> 
 
 The left image shows a *normal* pill and the right image shows a *defective* pill.
 
