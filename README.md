@@ -18,7 +18,7 @@ This repo contains the following structure:
 
 The following shows a partial example of the data stored in **data.csv** that is used to load the data into PerceptiLabs. The values in the **labels** column indicate the respective classification depicted in each image.
 
-| **image_path** | **target** |
+| **images** | **labels** |
 |------------|--------------|
 | defect/pic.6.1561.0.png | defect |
 | defect/pic.6.1562.0.png | defect |
